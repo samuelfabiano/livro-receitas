@@ -1,11 +1,11 @@
-#Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken
 
-###Ingredientes:
+### Ingredientes:
 
--Frango
--Arroz
--Batata Palha
+ - Frango
+ - Arroz
+ - Batata Palha
 
-###Modo de Preparo
+### Modo de Preparo
 
 Esquentar o arroz com o frango e colocar batata palhar por cima
